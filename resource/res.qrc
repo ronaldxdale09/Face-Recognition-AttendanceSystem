@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>logo.png</file>
+    <file>WEB20-Facial-Recognition-Software-Overlay-SocialShare-1200x628-1.jpg</file>
+    <file>pexels-photo-8090147 (1).jpeg</file>
+    <file>borderimage.png</file>
+  </qresource>
+</RCC>
